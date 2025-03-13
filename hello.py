@@ -3,5 +3,9 @@ def hello_world():
 
 def foo(a):
     return a+1
+    
 def bar(a):
-    return a+1
+    return a+2
+    
+def baz(a):
+    return a+3
